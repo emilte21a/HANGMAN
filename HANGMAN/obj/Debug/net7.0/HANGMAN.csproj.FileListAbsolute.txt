@@ -1,0 +1,15 @@
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\bin\Debug\net7.0\HANGMAN.exe
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\bin\Debug\net7.0\HANGMAN.deps.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\bin\Debug\net7.0\HANGMAN.runtimeconfig.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\bin\Debug\net7.0\HANGMAN.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\bin\Debug\net7.0\HANGMAN.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.csproj.AssemblyReference.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\refint\HANGMAN.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\HANGMAN.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\HANGMAN\HANGMAN\obj\Debug\net7.0\ref\HANGMAN.dll
